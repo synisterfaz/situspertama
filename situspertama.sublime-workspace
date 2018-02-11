@@ -20,7 +20,16 @@
 			"file": "src/situspertama/settings/production.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3132,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 1340,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -29,7 +38,7 @@
 			"file": "src/situspertama/settings/local.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 3131,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -84,10 +93,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/User/Desktop/Dev/megumi",
-		"/C/Users/User/Desktop/Dev/megumi/src",
-		"/C/Users/User/Desktop/Dev/megumi/src/situspertama",
-		"/C/Users/User/Desktop/Dev/megumi/src/situspertama/settings"
+		"/C/Users/User/Desktop/Dev/megumi"
 	],
 	"file_history":
 	[
@@ -129,7 +135,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -157,7 +163,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -166,58 +172,91 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 3132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								800,
+								800
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/situspertama/settings/local.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
 					"buffer": 3,
+					"file": "src/situspertama/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3131,
+								3131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 921.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "src/requirements.txt",
 					"semi_transient": true,
 					"settings":
@@ -241,11 +280,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "src/situspertama/settings/base.py",
 					"semi_transient": false,
 					"settings":
@@ -257,8 +296,8 @@
 						"selection":
 						[
 							[
-								839,
-								839
+								0,
+								3131
 							]
 						],
 						"settings":
@@ -271,7 +310,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
